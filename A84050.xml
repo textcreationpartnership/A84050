@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epitomie of tyranny in the island of Guernzey. Sent in a letter to a person of quality in London, concerning the late irregular transactions there, in relation to a certain deputation and addresse made to Richard late Protector; with the said addresse it self, lately presented to him by Peter and William de Beauvoir the pretended deputy; discovering their evil and dangerous designs against the government of a Common-Wealth. Now seasonably published by a lover of this Common-Wealth, and of his native countrey, for a warning to the faithfull now in authority ...</title>
+            <author>Lover of this Common-wealth.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84050</idno>
+            <idno type="STC">Wing E3179</idno>
+            <idno type="STC">Thomason E983_26</idno>
+            <idno type="STC">ESTC R207774</idno>
+            <idno type="EEBO-CITATION">99866805</idno>
+            <idno type="PROQUEST">99866805</idno>
+            <idno type="VID">119091</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84050)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119091)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 146:E983[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epitomie of tyranny in the island of Guernzey. Sent in a letter to a person of quality in London, concerning the late irregular transactions there, in relation to a certain deputation and addresse made to Richard late Protector; with the said addresse it self, lately presented to him by Peter and William de Beauvoir the pretended deputy; discovering their evil and dangerous designs against the government of a Common-Wealth. Now seasonably published by a lover of this Common-Wealth, and of his native countrey, for a warning to the faithfull now in authority ...</title>
+                  <author>Lover of this Common-wealth.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the year, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May. 23"; "May 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Beauvoir, Peter de.</term>
+               <term>Beauvoir, William de.</term>
+               <term>England and Wales. --  Lord Protector (1658-1660 : R. Cromwell)</term>
+               <term>Great Britain --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Guernsey (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119091:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 122 -->
+            <p>An Epitomie of TYRANNY IN The Iſland of Guernzey.</p>
+            <p>Sent in a LETTER TO A Perſon of Quality in <hi>London,</hi> Concerning The late Irregular Tranſactions there, in relation to a certain Deputation and Addreſſe made to <hi>Richard</hi> late Protector; With the ſaid Addreſſe it ſelf, Lately preſented to him by <hi>Peter</hi> and <hi>William de Beauvoir</hi> the pre<g ref="char:EOLhyphen"/>tended Deputy; diſcovering their evil and dangerous Deſigns againſt the Government of a Common-Wealth.</p>
+            <p>Now Seaſonably publiſhed by a Lover of this <hi>Common-Wealth,</hi> and of his Native Countrey, for a warning to the faithfull now in Authority, and at the Helm of the Government of this Common-wealth, to the end to prevent, That in future the ſaid Deputies may not be intruſted of any Office or Place in the ſaid Iſland.</p>
+            <p>Printed in the Year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:119091:2"/>
+            <!-- PDF PAGE 123 -->
+            <pb n="1" facs="tcp:119091:2"/>
+            <!-- PDF PAGE 123 -->
+            <head>
+               <hi>A</hi> Letter ſent from the Iſland of <hi>Guern<g ref="char:EOLhyphen"/>zey,</hi> to a Perſon of quality in <hi>London,</hi> concerning the late Irre<g ref="char:EOLhyphen"/>gular Tranſactions there, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce my arrival in this Iſland, I could not, till this preſent time, have an opportunity to anſwer your deſires and ex<g ref="char:EOLhyphen"/>pectations in reference to the tranſactions of Affairs here, which now I have effected by way of ſome ſmall Veſſels, which will be ready within few hours to ſet ſayl for <hi>England;</hi> by whom I would not omitt the opportunity to give you a ſhort Nar<g ref="char:EOLhyphen"/>rative thereof, which is briefly, as followeth. Aſſoon as the well-affected and honeſt People of this Iſle had notice that a Parliament was called, they reſolved to uſe what diligence they could, that the Aſſembly called Eſtates of this Iſlle might be ſummoned to meet in Order, to make choyce of honeſt and faithful Deputyes to go for <hi>Eng<g ref="char:EOLhyphen"/>land</hi> to the ſaid Parliament, there to repreſent the ſeveral grievances of the People, and endeavour to obtain redreſſe therein; as like<g ref="char:EOLhyphen"/>wiſe the Confirmation, Corroboration, and Augmentation of their antient Charters and Priviledges. But the People were circum<g ref="char:EOLhyphen"/>vented by the ſurreptitious practices of their preſent pretended Bay<g ref="char:EOLhyphen"/>liff or Judge, Mr. <hi>Peter de Beauvoirs</hi> aliàs <hi>de Granges,</hi> who could not but expect that his fall would be near at hand, unleſſe he could hin<g ref="char:EOLhyphen"/>der and prevent the good and honeſt intentions of the People, from taking effect in their intended choyce of Deputies; eſpecially know<g ref="char:EOLhyphen"/>ing what a firebrand he had been amongſt them for diverſe years
+<pb n="2" facs="tcp:119091:3"/>
+               <!-- PDF PAGE 124 -->paſt, and what fuel of diſcord and diviſions he had kindled amongſt them, and how, during the famous long-Parliament in the year 1649. he was for the ſame, and for ſeveral miſdemeanors and mal<g ref="char:EOLhyphen"/>verſations in the Execution of the ſaid place of Bayliff or Judge there, complained againſt by ſeveral Articles exhibited; whereup<g ref="char:EOLhyphen"/>on the ſaid Parliament in the ſaid year, appointed (by a certain Act) ſeveral Comers to go to the ſaid Iſle to examine the Complaints and grievances of the People: Two of which Comers (<hi>viz. Moſes Wall</hi> and <hi>Roger Frith</hi> Gen.) being returned, made their Repo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of the State and Condition of Affaires there, which report together with the ſaid Articles of Charge being (upon the 3d of <hi>November</hi> 1650. by order of the then Council of State) heard and conſidered by a ſelect Committee appointed by them for that purpoſe, before whom the ſaid Bayliff appeared, and was heard what he could ſay or produce in his own defence; after which, the ſaid Committee made their report to the Council, certifying that after a full hearing of the whole buſineſs of <hi>Guernzey</hi> they found the ſaid Bayliff to be a perſon not fit to execute the ſaid Office and Place, and that for the better Government and future peace of the ſaid Iſle, the ſaid Mr. <hi>Peter de Beauvoir</hi> ſhould be no more Bayliff, and that a new one ſhould be choſen in his room, to be continued onely for three years at the moſt; which Report was the ſame day confirmed by the Council, who ordered <hi>Cornelius Holland</hi> 
+               <abbr>Eſq</abbr> to preſent it to the Parliament: But the many other weighty affaires of the Common-wealth hindred the ſaid Report from being preſented to the ſaid Parliament before their interruption; nothing being done therein till the 29th of <hi>Auguſt</hi> 1653. that then it was ordered by the little Parliament, that the Jurates of <hi>Guernzey</hi> ſhould execute the ſaid place and office of Bailiff of that Iſland by turns, each of them a Moneth; which order was very well reſented by the People, and very much to their ſatisfaction, peace, and tranquillity; it having been obſerved, that during above two years time that the ſaid Order was executed, all former fuell of diſcord and diviſions in that Iſland w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re quenched, during which time, the ſaid Bailiff was obſer<g ref="char:EOLhyphen"/>ved to ſet all his Engines at work, by vilifying the way practiſed by vertue of the ſaid Order, leaving no way unaſſaied to watch his op<g ref="char:EOLhyphen"/>portunity to overthrow the ſame, and bring the old form again; which afterwards he eaſily effected, making uſe of the change of Go<g ref="char:EOLhyphen"/>vernment,
+<pb n="3" facs="tcp:119091:3"/>
+               <!-- PDF PAGE 124 -->came to <hi>England,</hi> and ſurreptitiouſly repreſented to the late Protector, how that the ſaid Order and Monethly way of offici<g ref="char:EOLhyphen"/>ating the ſaid place of Bailiff in that Iſle was not conſiſtent with his Government: and thereupon he plaid his game ſo cunningly, by in<g ref="char:EOLhyphen"/>direct and ſurreptitious practiſes, as by bribing of Clerks with very conſiderable ſums of mony, and alſo by his Hypocritical carriage, as if he had been a very pious and religious man, when as he was then, and is ſtill known to be a very great Perſecutor of God's Peo<g ref="char:EOLhyphen"/>ple, having baniſhed ſeverall godly Miniſters, and others, out of the ſaid Iſle, for onely differing in Judgment from him; and likewiſe a very covetous, ambitious, envious, factious, and turbulent perſon, who was, by the long Parliament, to have been outed for the ſame: Notwithſtanding all which, he, the ſaid <hi>Peter de Beauvoir,</hi> got the ſaid Order of Parliament to be vacated, and obtained of the ſaid late Protector, a Patent under the great Seal, to have and execute the ſaid Office and place of Bailiff during his life, to the great grief and diſ<g ref="char:EOLhyphen"/>like of the People. The ſaid <hi>Peter de Beauvoir,</hi> to prevent ſuch aſ<g ref="char:EOLhyphen"/>ſembly and choice, and that thoſe foul and enormous Actions of his ſhould not be made manifeſt, not come to light, and be again com<g ref="char:EOLhyphen"/>plained of, and charged againſt him, before thoſe in authority in <hi>England;</hi> made uſe in Court of a fair pretence, <hi>(viz.)</hi> That one <hi>Wil<g ref="char:EOLhyphen"/>liam Beauvoir</hi> alias <hi>du Hommet</hi> his neer Kinſman, (and whom very lately he had cauſed to be choſen and put in the Seat of Judicature) was going for <hi>England,</hi> and to ſpare the Peoples purſes, he the ſaid <hi>Wil<g ref="char:EOLhyphen"/>liam Beauvoir</hi> would at his proper coſts and charges, undertake the care of getting the ancient Charters and Priviledges of this Iſland confirmed, and moreover would get an augmentation of Licences for Wool, and that thenceforward the People ſhould farm their ſe<g ref="char:EOLhyphen"/>veral Tythes; and, to the end the ſaid Bailiff might the better carry on his deſigne in hand, he made an additional propoſition to the Court, <hi>(viz.)</hi> That in Imitation of ſeveral places in <hi>England,</hi> he thought it very fit and requiſite, that an Addreſſe of the Magiſtrates and others of this Iſland ſhould be made and ſent unto the Protect<g ref="char:EOLhyphen"/>or, to condole the death of his late Father, and congratulate him in his preſent Government: to which ſeveral propoſitions, the Court being demanded their Opinion, the major part of them knowing as well whereto the ends of the ſaid Bailiff did tend, as of what ill con<g ref="char:EOLhyphen"/>ſequence ſuch a deputation would prove, eſpecially conſidering the
+<pb n="4" facs="tcp:119091:4"/>
+               <!-- PDF PAGE 125 -->perſon propoſed to be intruſted as Deputy, <hi>(viz.)</hi> the ſaid <hi>William de Beauvoir</hi> aliàs <hi>du Hommet,</hi> who is known to be a prophane, am<g ref="char:EOLhyphen"/>bitious, and debauched man; and one who, during the late War, was a notorious enemy againſt the Parliament of <hi>England,</hi> having been in Arms againſt them at <hi>Oxford,</hi> with his Maſter the Lord <hi>Downs,</hi> who raiſed a Troop of Horſe there for the late King, for which after<g ref="char:EOLhyphen"/>wards he compounded, and then went for <hi>Italy,</hi> and the ſaid <hi>William Beauvoir</hi> with him, who at this very inſtant receivs an Annuity of the ſaid Lord <hi>Downs,</hi> his ſaid Maſter: Upon this and other weighty con<g ref="char:EOLhyphen"/>ſiderations the major part of the ſaid Court anſwered, That ſeeing the things propoſed by the ſaid Bailiff were of general concernment to the whole Iſland, that therefore in their opinions it was fit and requiſite that the State of this Iſland ſhould be ſummoned to aſſem<g ref="char:EOLhyphen"/>ble, adviſe, and deliberate concerning the ſaid propoſition (as time out mind had been practiſed in caſes of the like nature). But the ſaid Bailiff oppoſed the ſame, by deſiring and ſending to the Deputy Governour not to acquieſce that the ſaid Aſſembly ſhould be ſum<g ref="char:EOLhyphen"/>moned, for ſeveral weighty reaſons that he would impart unto him; And in the interim the ſaid Bailiff got a kind of begging Addreſſe to be drawn, and privately ſent (with a Deputation for himſelf and the ſaid <hi>William Beauvoir</hi>) to the ſeverall Pariſhes of this Iſland to get hands, which ſome of the People did not refuſe by reaſon of the fair pretences therein conteined; and afterwards he, the ſaid Bailiff, cauſed the ſaid Deputation, contrary to Law, to be paſſed under the publique Seal of the Iſland, which he keeps in his Cuſtody. All which illegal actings of the ſaid Bayliff were effected by him againſt the expreſſe Order of the Deputy-Governour, or knowledge of the States of the ſaid Iſland; which Irregular proceedings were like to have cauſed a tumult in the ſaid Iſland. And now he is going for <hi>Jer<g ref="char:EOLhyphen"/>ſey</hi> and ſo for <hi>England</hi> in the Frigate that went thither to fetch Major Generall <hi>Overton:</hi> and his Colleague <hi>William de Beauvoir</hi> aliás <hi>du hommet</hi> is now going in theſe Veſſels after him. I do not doubt but you have ſeen them: they are reſolved to make uſe of all their Engines and Hypocriſies in ſeeming pious and Religi<g ref="char:EOLhyphen"/>ous rather then miſſe of compaſſing their ends; and if that failes, then they are reſolved to make uſe of money, which they have plen<g ref="char:EOLhyphen"/>ty to bribe and corrupt thoſe that will ſerve them in anſwering their baſe ends. They have boaſted here openly of their friends at Court,
+<pb n="5" facs="tcp:119091:4"/>
+               <!-- PDF PAGE 125 -->and what they will do for them, and for thoſe that joyn with them; and that when all other things and means fail, that money is the onely way to do buſineſs; which I do not wonder at, ſeeing they are ſo well verſed in receiving and giving: Coſt what it will, they muſt effect ſomething, or otherwiſe, their return hither will be Odious to thoſe to whom they have made ſuch large promiſes. I ſend you here incloſed a Copy of their flattering, profane, and begging Addreſſe. I wiſh that thoſe in Authority may not be enchanted and deluded by them either by their feigned piety, Religious Language, not their pre<g ref="char:EOLhyphen"/>tended affection to the Common-wealth, to which they are great Ad<g ref="char:EOLhyphen"/>verſaries: no government pleaſing them but abſolute Monarchy, (as they themſelves exerciſe over the Poor and honeſt People of this Iſland, whom they can cruſh at pleaſure, by great allyance they have in the ſeat of Judicature.) Pray communicate theſe lines to ſome of thoſe of your friends, that yet remain faithful to the Intereſt of Gods People, and to the Common-wealth, that ſo they may not be ſur<g ref="char:EOLhyphen"/>prized by them; and you will do a work of merit to this poor ſpot of ground conſiſting of above Twenty thouſand ſouls, and ingage all the well-affected and honeſt amongſt them to pray for you; and my ſelf, who am,</p>
+            <closer>
+               <salute>Honorable Sir,</salute>
+               <signed>Your moſt Humble and Obedient Servant.</signed>
+               <dateline>Guernzey Iſland <date>2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Martii 1658.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="6" facs="tcp:119091:5"/>
+            <!-- PDF PAGE 126 -->
+            <head>To his moſt Serene Highneſs, <hi>Richard Lord Protector</hi> of the Common<g ref="char:EOLhyphen"/>wealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions there<g ref="char:EOLhyphen"/>unto appertaining.</head>
+            <head type="sub">The humble Requeſt of the Bayliff, Jurates, and Common Councill, and other well-affected Inhabitants of the Iſland of <hi>Guernzey.</hi>
+            </head>
+            <opener>SHEWETH,</opener>
+            <p>THat having had a deep feeling in the general Conſternation, which all well-affected perſons have received by the death of his late moſt renowned Highneſs, They have alſo great ſhare in the great Exultation, which doth poſſeſs the Hearts of all ſuch who make profeſſion of Piety, and who do ſee your Highneſs Act for God and his People in his Government; and as your moſt humble Suppliants have no<g ref="char:EOLhyphen"/>thing more pretious then their fidelity towards your Highneſs, being that which doth embolden them to proſtrate themſelves in all Humility before your Highneſs, Humbly ſupplicating, That you will pleaſe to confirm the Priviledges, Franchiſes, and Immunities, which they do enjoy by their Ancient Charters; and ſeeing the Inhabitants of the ſaid Iſle are become very Numerous, and of above 6000 per<g ref="char:EOLhyphen"/>ſons who get their living by knitting of Stockings, and other Manufactures of Wooll, and that One Thouſand Todds of it is the leaſt quantity which is neceſſary for them to keep them at work; which quantity being equally diſtributed amongſt the ſaid perſons, will not amount to more than four pounds and an half for each for one whole year: We do with all Humility ſupplicate your Highneſs, That it may pleaſe your Grace to grant to the Poor Inhabitants of the ſaid Iſle the ſame favour and grace, (having already been granted to the Inhabitants of <hi>Jerſey,</hi> by your High<g ref="char:EOLhyphen"/>neſs moſt renowned Father of happy memory) and according to the cordial affection which they bear to your Highneſs, and their duty to addreſſe themſelves with fer<g ref="char:EOLhyphen"/>vour to the Throne of Grace,</p>
+            <p>They pray God, that he may be pleaſed to continue his bleſſing upon your Highneſs Perſon, Poſterity, and Government, &amp;c.</p>
+            <closer>
+               <signed>Signed in the Original.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
